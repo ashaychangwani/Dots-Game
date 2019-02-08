@@ -4,6 +4,7 @@ This code was writting in CPP in order to emulate the Dots Game on Turbo C++ as 
 
 
 The controls are as follows:
- WASD- Movement
- Q- Place tile
- R- Rotate tile
+	WASD- Movement
+	Q- Place tile
+	R- Rotate tile
+	E- Exit
